@@ -1,0 +1,2 @@
+# capstone_ocr_scanning_project
+This is a capstone_ocr_scanning_project
